@@ -1,0 +1,96 @@
+NUM_STEPS = 10000
+
+#SINGLE RANDOM MUTATION
+
+Universe Size: 100 Num sets: 10 density: 0.2
+solution: True   Cost: -288.17996152704114
+
+Universe Size: 1000 Num sets: 100 density: 0.2
+solution: True   Cost: -6676.621729664439
+
+Universe Size: 10000 Num sets: 1000 density: 0.2
+solution: True   Cost: -1514283.393732445
+
+Universe Size: 100000 Num sets: 10000 density: 0.1
+solution: True   Cost: -227281040.35010093
+
+Universe Size: 100000 Num sets: 10000 density: 0.2
+solution: True   Cost: -486771531.32979953
+
+Universe Size: 100000 Num sets: 10000 density: 0.3
+solution: True   Cost: -761268274.651793
+
+
+
+
+
+
+
+#MULTIPLE RANDOM MUTATION
+
+Universe Size: 100 Num sets: 10 density: 0.2
+solution: True   Cost: -288.17996152704114
+
+Universe Size: 1000 Num sets: 100 density: 0.2
+solution: True   Cost: 6717.069655620315
+
+Universe Size: 10000 Num sets: 1000 density: 0.2
+solution: True   Cost: -1426818.7483142125
+
+Universe Size: 100000 Num sets: 10000 density: 0.1
+solution: True   Cost: -215492794.57939562
+
+Universe Size: 100000 Num sets: 10000 density: 0.2
+solution: True   Cost: -461881519.37205285
+
+Universe Size: 100000 Num sets: 10000 density: 0.3
+solution: True   Cost: -719707053.9104798
+
+
+
+
+
+
+#MULTIPLE RANDOM MUTATION WITH BETTER TWEAK
+
+Universe Size: 100 Num sets: 10 density: 0.2
+solution: True   Cost: -288.17996152704114
+
+Universe Size: 1000 Num sets: 100 density: 0.2
+solution: True   Cost: -7109.466766339455
+
+Universe Size: 10000 Num sets: 1000 density: 0.2
+solution: True   Cost: -1129410.8358619816
+
+Universe Size: 100000 Num sets: 10000 density: 0.1
+solution: True   Cost: -108172384.33688472
+
+Universe Size: 100000 Num sets: 10000 density: 0.2
+solution: True   Cost: -227652577.7466396
+
+Universe Size: 100000 Num sets: 10000 density: 0.3
+solution: True   Cost: -354477497.26474905
+
+
+
+
+
+#STEEPEST STEP AND RESTART
+
+Universe Size: 100 Num sets: 10 density: 0.2
+solution: True   Cost: -288.17996152704114
+
+Universe Size: 1000 Num sets: 100 density: 0.2
+solution: True   Cost: -7704.835249536227
+
+Universe Size: 10000 Num sets: 1000 density: 0.2
+solution: True   Cost: -3544654.5416558296
+
+Universe Size: 100000 Num sets: 10000 density: 0.1
+solution: True   Cost: -246062484.87520188
+
+Universe Size: 100000 Num sets: 10000 density: 0.2
+solution: True   Cost: -528591419.942939
+
+Universe Size: 100000 Num sets: 10000 density: 0.3
+solution: True   Cost: -825514031.0227586
